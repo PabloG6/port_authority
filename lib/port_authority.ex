@@ -13,7 +13,7 @@ defmodule PortAuthority do
       :world
 
   """
-  def start(port) do
+  def hello do
 
   end
 
